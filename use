@@ -1,0 +1,3 @@
+local test = "Testing Grabify"
+
+print(test)
