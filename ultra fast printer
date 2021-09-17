@@ -1,0 +1,6 @@
+--print string
+
+local lolmonke = "printed for pog"
+
+print(lolmonke)
+
